@@ -76,7 +76,7 @@ F means fury and flame.
    to solve any angry user and player with fire and flame.
  
 
-**Join Us with your Fury and Flame!**
+## Join Us with your Fury and Flame!
 
    
 ## Installation
