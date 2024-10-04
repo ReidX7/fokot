@@ -75,6 +75,9 @@ F means fury and flame.
    
    to solve any angry user and player with fire and flame.
  
+
+**Join Us with your Fury and Flame!**
+
    
 ## Installation
 
@@ -85,5 +88,5 @@ After installation, just replace the ordinary icon.svg with ours.
 
 ## Contribution
 
-An better 'Fokot' icon is needed.
+A fury 'Fokot' icon is needed.
 
