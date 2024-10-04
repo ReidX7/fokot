@@ -10,7 +10,7 @@
 
 F means fury and flame.
 
-## Features
+## Features ( Maybe )
 
 1. Dark Power theme:
 
