@@ -70,7 +70,7 @@ F means fury and flame.
 
 8. Ultimate Community Solution!
 
-   Provide a Dark Power for the ultimate community solution.
+   Provide a Dark Power Button for the ultimate community solution.
    
    If you press this button.
    
