@@ -48,7 +48,7 @@ F means fury and flame.
 
 7. Force Collaboration:
 
-   For team collaboration, activate the "PowerForceCollaboration" mode
+   For team collaboration, activate the "Force Collaboration" mode
 
    provide real-time synchronization and conflict resolution functions.
    
@@ -95,5 +95,5 @@ After installation, just replace the ordinary icon.svg with ours.
 
 ## Contribution
 
-A fury 'Fokot' icon is needed.
+A fury 'Fokot' icon is needed for this readme.
 
