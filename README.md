@@ -1,4 +1,11 @@
-# fokot
+# Fokot Engine
+
+<p align="center">
+  <a href="https://godotengine.org">
+    <img src="icon.png" width="400" alt="Fokot Engine logo">
+  </a>
+</p>
+
 The ultimate game engine with fury and flame
 
 F means fury and flame.
