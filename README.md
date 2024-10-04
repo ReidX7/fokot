@@ -6,7 +6,7 @@
   </a>
 </p>
 
-The ultimate game engine with fury and flame
+**The ultimate game engine with fury and flame**
 
 F means fury and flame.
 
